@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: ;
+}
+h1{
+    background-color: azure;
+    padding: 20px;
+    text-align: center;
+    color: rgb(233, 110, 130);
+   
+}
+
+.list {
+    background-color: aqua;
+    width: 400px;
+    margin: 0 auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+li{
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+ul {
+    list-style: none;
+}
+
+#home{
+    color: black;
+    font-size: 20px;
+    
+}
+#adobo {
+    text-align: center;
+    display: block;
+    margin: 0 auto  ;
+    
+}
+.recipecontainer{
+    width: 1000px;
+    background-color:blanchedalmond;
+    margin: 0 auto;
+}
+.nav {
+    
+    background-color: aliceblue;
+
+}
+
+.first {
+    display: inline-block;
+    text-align: left;
+    width: 45%;
+}
+.second {
+    background-color: blue;
+    display: inline-block;
+    text-align: center;
+    
+    
+    
+}
